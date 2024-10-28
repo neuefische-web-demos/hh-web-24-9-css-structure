@@ -1,0 +1,23 @@
+@import "global.css";
+@import "../components/card.css";
+
+:root {
+  --primary-color: #ff4a11;
+  --secondary-color: grey;
+}
+
+h1 {
+  /* color: #ff4a11 !important; */
+  color: var(--primary-color);
+}
+
+h1 {
+  color: var(--secondary-color);
+}
+/* .title {
+  color: purple;
+}
+
+#headline {
+  color: green;
+} */
